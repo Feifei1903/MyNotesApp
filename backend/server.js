@@ -9,6 +9,7 @@ const notes = [
   { id: 2, text: "Finish the deployment tutorial" },
   { id: 3, text: "Water the plants" },
   { id: 4, text: "Take the dog for a walk" },
+  { id: 5, text: "Read a book" },
 ];
 
 // app.get("/", (req, res) => {
