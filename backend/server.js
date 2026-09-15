@@ -8,6 +8,7 @@ const notes = [
   { id: 1, text: "Buy milk" },
   { id: 2, text: "Finish the deployment tutorial" },
   { id: 3, text: "Water the plants" },
+  { id: 4, text: "Take the dog for a walk" },
 ];
 
 // app.get("/", (req, res) => {
