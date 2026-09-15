@@ -15,6 +15,9 @@ const notes = [
 // });
 app.use(express.static("public"));
 
+app.use(express.json());
+
+  
 app.get("/api/notes", (req, res) => {
   res.json(notes);
 });
